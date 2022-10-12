@@ -1,0 +1,92 @@
+.whatgpt3{
+    display: flex;
+    flex-direction: column;
+    color:#81afdd;
+    font-size:0.8rem;
+    margin:1rem;
+    padding:1rem;
+    background: radial-gradient(circle at 30% -100%,#042c54 25%,#042c54 85%,#1b78de 100%);
+}
+.whatgpt3 h1{
+    color:#fff;
+}
+.whatgpt3__coloredBar{
+    width:2rem;
+    height:0.3rem;
+    background: linear-gradient(103.22deg,#ae67fa -13.86%,#f49867 99.55%);
+}
+.whatgpt3__part1{
+    display: flex;
+    flex-direction: column;
+    
+}
+.whatgpt3__part1 h1{
+    font-size:1rem;
+    margin-bottom:1rem;
+}
+.whatgpt3__part2 h1{
+    background:linear-gradient(90deg, rgba(174, 103, 250, 1) 0%, rgba(244, 152, 103, 1) 100%);
+    background-clip: text;
+    color: transparent;
+}
+.whatgpt3__part2{
+    display: flex;
+    flex-direction: column;
+    background:linear-gradient(90deg, rgba(174, 103, 250, 1) 0%, rgba(244, 152, 103, 1) 100%);
+    background-clip: text;
+    color: transparent;
+    margin:3rem 0;
+}
+.whatgpt3__part2 p{
+    margin:1rem 0;
+    font-size:1rem;
+}
+
+
+.whatgpt3__part3{
+    display: grid;
+    grid-template-columns: 100%;
+}
+.whatgpt3__part3-part {
+    margin:2rem 2rem;
+}
+.whatgpt3__part3-part h1{
+    margin-bottom:1.5rem;
+}
+
+
+/* RESPONSIVE */
+
+@media (min-width:650px) {
+    .whatgpt3 {
+        margin:5rem;
+        padding:2rem;
+    }
+    .whatgpt3__part1{
+        flex-direction: row;
+    }
+    .whatgpt3__part1 h1{
+        width:8rem;
+        margin-right:2.5rem;
+    }
+}
+
+@media (min-width:800px) {
+    .whatgpt3__part3{
+        grid-template-columns: 50% 50%;
+    }
+}
+
+@media (min-width:980px) {
+    .whatgpt3__part2 {
+        flex-direction: row;
+        font-size:1.2rem;
+    }
+    .whatgpt3__part2 p{
+        margin-left:2rem;
+        width:10rem;
+    }
+    .whatgpt3__part3{
+        grid-template-columns: 33% 33% 33%;
+    }
+}
