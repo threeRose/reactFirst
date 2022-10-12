@@ -21,24 +21,24 @@ const Footer = () => {
 
         <div className="footer__part3-part">
           <h4>Links</h4>
-          <a href="#">Overons</a>
-          <a href="#">Social Media</a>
-          <a href="#">Counters</a>
-          <a href="#">Contact</a>
+          <a href="/#">Overons</a>
+          <a href="/#">Social Media</a>
+          <a href="/#">Counters</a>
+          <a href="/#">Contact</a>
         </div>
 
         <div className="footer__part3-part">
           <h4>Company</h4>
-          <a href="#">Terms &  Conditions</a>
-          <a href="#">Privacy Policy</a>
-          <a href="#">Contact</a>
+          <a href="/#">Terms &  Conditions</a>
+          <a href="/#">Privacy Policy</a>
+          <a href="/#">Contact</a>
         </div>
 
         <div className="footer__part3-part">
           <h4>Get In Touch</h4>
-          <a href="#">Aksemsettin, Adnan Menderes Blv. No:54, 34080 Fatih/Istanbul</a>
-          <a href="#">(+90) 553 500 53 15</a>
-          <a href="#">furkanucgulll@gmail.com</a>
+          <a href="/#">Aksemsettin, Adnan Menderes Blv. No:54, 34080 Fatih/Istanbul</a>
+          <a href="/#">(+90) 553 500 53 15</a>
+          <a href="/#">furkanucgulll@gmail.com</a>
         </div>
       </div>
 
