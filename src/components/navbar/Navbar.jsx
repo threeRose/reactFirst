@@ -18,11 +18,11 @@ const Navbar = () => {
 
       <div className='navbar__menu scale-up-center' style={{display: isActive ? 'none' : 'flex'}}>
         <div className="navbar__menu-part1">
-          <a href="#">Home</a>
-          <a href="#">What is GPT3</a>
-          <a href="#">Open AI</a>
-          <a href="#">Case Studies</a>
-          <a href="#">Library</a>
+          <a href="/#">Home</a>
+          <a href="/#">What is GPT3</a>
+          <a href="/#">Open AI</a>
+          <a href="/#">Case Studies</a>
+          <a href="/#">Library</a>
         </div>
         <div className="navbar__menu-part2">
           <button>Sign In</button>
