@@ -20,7 +20,7 @@ const Blog = () => {
             <h3>GPT-3 and Open AI is the future. Let us exlore how it is?</h3>
           </div>
           <div className='blog__part2-card_3'>
-            <a href="#">Read Full Article</a>
+            <a href="/#">Read Full Article</a>
           </div>
         </div>
 
@@ -34,7 +34,7 @@ const Blog = () => {
             <h3>GPT-3 and Open AI is the future. Let us exlore how it is?</h3>
           </div>
           <div className='blog__part2-card_3'>
-            <a href="#">Read Full Article</a>
+            <a href="/#">Read Full Article</a>
           </div>
         </div>
 
@@ -48,7 +48,7 @@ const Blog = () => {
             <h3>GPT-3 and Open AI is the future. Let us exlore how it is?</h3>
           </div>
           <div className='blog__part2-card_3'>
-            <a href="#">Read Full Article</a>
+            <a href="/#">Read Full Article</a>
           </div>
         </div>
 
@@ -62,7 +62,7 @@ const Blog = () => {
             <h3>GPT-3 and Open AI is the future. Let us exlore how it is?</h3>
           </div>
           <div className='blog__part2-card_3'>
-            <a href="#">Read Full Article</a>
+            <a href="/#">Read Full Article</a>
           </div>
         </div>
 
@@ -76,7 +76,7 @@ const Blog = () => {
             <h3>GPT-3 and Open AI is the future. Let us exlore how it is?</h3>
           </div>
           <div className='blog__part2-card_3'>
-            <a href="#">Read Full Article</a>
+            <a href="/#">Read Full Article</a>
           </div>
         </div>
 
