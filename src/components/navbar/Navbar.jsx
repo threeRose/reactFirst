@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='navbar'>
       <div className="navbar__logo">
-        <a href="https://furkanreactt.netlify.app/"><img src={deneme} alt="logo" /></a>
+        <a href="https://threerose-gpt3.netlify.app/"><img src={deneme} alt="logo" /></a>
       </div>
 
       <div className='navbar__menu scale-up-center' style={{display: isActive ? 'none' : 'flex'}}>
